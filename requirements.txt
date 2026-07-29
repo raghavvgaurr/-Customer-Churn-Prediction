@@ -1,5 +1,5 @@
-tensorflow==2.15.0
-matplot
+tensorflow
+matplotlib
 seaborn
 numpy 
 scikit-learn
